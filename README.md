@@ -13,4 +13,5 @@ Great restaurants around the world
 
 ### Tel Aviv
 
-- [Santa Katarina](https://www.tripadvisor.com/Restaurant_Review-g293984-d7947687-Reviews-Santa_Katarina-Tel_Aviv_Tel_Aviv_District.html) - Fresh Mediterranean food and drinks with trendy atmosphere. (20$-40$/p)
+- [Santa Katarina](https://www.tripadvisor.com/Restaurant_Review-g293984-d7947687-Reviews-Santa_Katarina-Tel_Aviv_Tel_Aviv_District.html) - Fresh Mediterranean food and drinks with trendy atmosphere. {20$-40$}
+- [Catit](http://www.catit.co.il/eng/) - Elite chef resturant with creativite culinary by Meir Adoni. {114$ (437₪) Fixed Menu}
